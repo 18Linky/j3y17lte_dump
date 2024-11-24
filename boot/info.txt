@@ -1,0 +1,14 @@
+base address: 0x10000000
+board name: SRPQC17A001KU
+cmdline: None
+dtb offset: None
+header version: 0
+image type: AOSP
+kernel offset: 0x00008000
+original size: 21127456
+os version: 9.0.0
+page size: 2048
+ramdisk compression: gzip
+ramdisk offset: 0x01000000
+sigtype: None
+tags offset: 0x00000100
